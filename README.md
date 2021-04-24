@@ -45,4 +45,4 @@ I can provide the following data science services, including a full spectrum of 
 * Reproducible workflows in R using {[renv](https://rstudio.github.io/renv/index.html)} with {[drake](https://docs.ropensci.org/drake/)} or {[targets](https://docs.ropensci.org/targets/)}
 * Reproducible workflows in Python using [pipenv](https://pypi.org/project/pipenv/)
 * Setting up software and data tests to ensure the correctness of your work
-* Organizing {R} or {Python} code into packages
+* Organizing R or Python code into packages
